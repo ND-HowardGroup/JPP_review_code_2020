@@ -24,7 +24,7 @@ Mannam, Varun. “Fluorescence Microscopy Lifetime Denoising (FMLD) Dataset.” 
 https://github.com/ND-HowardGroup/Lifetime_denoising_JPP
 
 # Results: 
-<title="Noisy lifetime" hspace="30"/> <title="Denoised lifetime" hspace="30"/> <title="Target lifetime" hspace="30"/> 
+<title="Noisy lifetime" hspace="40"/> <title="Denoised lifetime" hspace="40"/> <title="Target lifetime" hspace="40"/> 
 <img src="Lifetime_denoising_images/noisy_lifetime_rgb_image_png1.png" width="300" title="Noisy lifetime"/> <img src="Lifetime_denoising_images/denoised_lifetime_rgb_image_png1.png" width="300" title="Denoised lifetime"/> <img src="Lifetime_denoising_images/target_lifetime_rgb_image_png1.png" width="300" title="Target lifetime"/> 
 
 
