@@ -24,6 +24,16 @@ Mannam, Varun. “Fluorescence Microscopy Lifetime Denoising (FMLD) Dataset.” 
 https://github.com/ND-HowardGroup/Lifetime_denoising_JPP
 
 
+# Estimation of lifetime from intensity
+
+#Images: The training and test dataset can be downloaded from here https://curate.nd.edu/show/jd472v2759b
+
+#Citation for dataset: Please cite the LFI dataset using the following format: Mannam, Varun. “Lifetime From Intensity (LFI) Dataset.” Notre Dame, August 13, 2019. https://doi.org/10.7274/r0-ac46-ft93.
+
+# Code is available here: 
+https://github.com/ND-HowardGroup/Poster_code_Fall19
+
+
 ## License & Copyright
 © 2020 Varun Mannam, University of Notre Dame
 
