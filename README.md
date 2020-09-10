@@ -23,7 +23,12 @@ Mannam, Varun. “Fluorescence Microscopy Lifetime Denoising (FMLD) Dataset.” 
 # Code is available here: 
 https://github.com/ND-HowardGroup/Lifetime_denoising_JPP
 
+# Results: 
+![alt-text-1](Lifetime_denoising_images/noisy_lifetime_rgb_image_png1.png "Noisy_lifetime") ![alt-text-2](Lifetime_denoising_images/denoised_lifetime_rgb_image_png1.png "Denoised_lifetime")
 
+
+
+#########################################################
 # Estimation of lifetime from intensity
 
 #Images: The training and test dataset can be downloaded from here https://curate.nd.edu/show/jd472v2759b
