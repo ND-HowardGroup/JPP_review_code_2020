@@ -24,7 +24,7 @@ Mannam, Varun. “Fluorescence Microscopy Lifetime Denoising (FMLD) Dataset.” 
 https://github.com/ND-HowardGroup/Lifetime_denoising_JPP
 
 # Results: 
-<img src="Lifetime_denoising_images/noisy_lifetime_rgb_image_png1.png" width="300" title="Noisy lifetime"/> <img src="Lifetime_denoising_images/denoised_lifetime_rgb_image_png1.png" width="300" title="Denoised lifetime"/> <img src="Lifetime_denoising_images/target_lifetime_rgb_image_png1.png" width="300" title="Target lifetime"/> 
+<img src="Lifetime_denoising_images/noisy_lifetime_rgb_image_png1.png" width="250" title="Noisy lifetime"/> <img src="Lifetime_denoising_images/denoised_lifetime_rgb_image_png1.png" width="250" title="Denoised lifetime"/> <img src="Lifetime_denoising_images/target_lifetime_rgb_image_png1.png" width="250" title="Target lifetime"/> 
 
 #########################################################
 # Estimation of lifetime from intensity
@@ -37,7 +37,7 @@ https://github.com/ND-HowardGroup/Lifetime_denoising_JPP
 https://github.com/ND-HowardGroup/Poster_code_Fall19
 
 # Results: 
-<img src="Estimation_of_lifetime_from_intensity/image_input_PM_FLIM_073.png" width="300" title="Intensity image"/> <img src="Estimation_of_lifetime_from_intensity/estimated_128_rgb_3d.png" width="300" title="Estimated lifetime"/> <img src="Estimation_of_lifetime_from_intensity/target_rgb_3d.png" width="300" title="Target lifetime"/> 
+<img src="Estimation_of_lifetime_from_intensity/image_input_PM_FLIM_073.png" width="250" title="Intensity image"/> <img src="Estimation_of_lifetime_from_intensity/estimated_128_rgb_3d.png" width="250" title="Estimated lifetime"/> <img src="Estimation_of_lifetime_from_intensity/target_rgb_3d.png" width="250" title="Target lifetime"/> 
 
 #########################################################
 
