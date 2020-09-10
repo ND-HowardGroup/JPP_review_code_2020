@@ -20,7 +20,8 @@ This is the repository for the open-source code described in
 #Citation for dataset: Please cite the FMLD dataset using the following format: 
 Mannam, Varun. “Fluorescence Microscopy Lifetime Denoising (FMLD) Dataset.” Notre Dame, January 1, 2020. https://doi.org/10.7274/r0-18da-9m58.
 
-
+# Code is available here: 
+https://github.com/ND-HowardGroup/Lifetime_denoising_JPP
 
 
 ## License & Copyright
