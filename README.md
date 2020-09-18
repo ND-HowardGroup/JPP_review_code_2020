@@ -34,7 +34,7 @@ https://github.com/ND-HowardGroup/Lifetime_denoising_JPP
 #Citation for dataset: Please cite the LFI dataset using the following format: Mannam, Varun. “Lifetime From Intensity (LFI) Dataset.” Notre Dame, August 13, 2019. https://doi.org/10.7274/r0-ac46-ft93.
 
 # Code is available here: 
-https://github.com/ND-HowardGroup/Poster_code_Fall19
+https://github.com/ND-HowardGroup/Lifetiem_from_intensity_code
 
 # Results: 
 <img src="Estimation_of_lifetime_from_intensity/image_input_PM_FLIM_073.png" width="250" title="Intensity image"/> <img src="Estimation_of_lifetime_from_intensity/estimated_128_rgb_3d.png" width="250" title="Estimated lifetime"/> <img src="Estimation_of_lifetime_from_intensity/target_rgb_3d.png" width="250" title="Target lifetime"/> 
